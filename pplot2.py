@@ -6,15 +6,9 @@
 # Een wrapper om de keyboard driver op FreeBSD/Mac OSX  of iets dergelijks die elke backspace
 # naar mijn mod_wsgi JSON input script stuurt komt misschien nog wel. Mod_wsgi en JSON werkt al.
 #
-# Liefdevol heb ik nu eindelijk een scriptje gekopieerd en iets aangepast uit een rood gekleurd boek 
-# met zo'n dier op de kaft. Fuck die kleur en fuck dat dier ik heb er een mooi bruin kaftje omheen gedaan.
-# Dan vloekt het minder.
-# 
 # In dat boek heeft de auteur even snel en makkelijk in dat voorbeeld wat waardes gedefinieerd zoals
 # [ 126, 45, 23, 12, 234 ] en in het wild wil je natuurlijk je eigen verzamelde waardes vanuit een 
 # file of op de commandline voeren aan het script.
-# En daar begint dan meestal dat geouwehoer met wtf waaarom doetie dat.. hij zou toch moeten .. huh?
-# Wat een onduidelijk verhaal op stackove..
 #
 # En dan moet je weten dat je integers moet gebruiken in plaats van strings voor de getallen als invoer 
 # en dat gaat met int(). 
@@ -94,7 +88,7 @@ aantal_keer_backspace_ingedrukt = []
 # dus g = 1
 # 
 # Wij voegen het aantal keer backspace ingedrukt getal toe aan het lijstje aantal_keer_backspace_ingedrukt,
-# daarna voegen wij de namen (journalist1, journalist2..enzovoorts) toe aan het lijstje jnamen. 
+# daarna voegen wij de namen (example1, example2..enzovoorts) toe aan het lijstje jnamen. 
 # 
 
 f = 0
