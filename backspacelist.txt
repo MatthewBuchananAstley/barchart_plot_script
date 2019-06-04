@@ -1,5 +1,5 @@
-journalist1 243
-journalist2 53
-journalist3 14
-Taartwangetjes 34
-rodelippen 8
+example1 243
+example2 53
+example3 14
+example4 34
+example5 8
