@@ -6,7 +6,7 @@
 # Een wrapper om de keyboard driver op FreeBSD/Mac OSX  of iets dergelijks die elke backspace
 # naar mijn mod_wsgi JSON input script stuurt komt misschien nog wel. Mod_wsgi en JSON werkt al.
 #
-# In dat boek heeft de auteur even snel en makkelijk in dat voorbeeld wat waardes gedefinieerd zoals
+# In dat boek met voorbeelden heeft de auteur even snel en makkelijk in dat voorbeeld wat waardes gedefinieerd zoals
 # [ 126, 45, 23, 12, 234 ] en in het wild wil je natuurlijk je eigen verzamelde waardes vanuit een 
 # file of op de commandline voeren aan het script.
 #
