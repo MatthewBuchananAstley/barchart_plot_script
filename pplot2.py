@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 #
+# SPDX-License-Identifier: GPL-3.0-or-later
+# FileCopyrightText: <text> 2019-2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+#
 # God allemachtig! Jezus! Wat een vrolijk script om grafiekjes te maken van data dat ik in een file 
 # verzameld heb, zoals bijvoorbeeld het aantal keer dat journalisten en columnisten backspace 
 # gebruiken.
