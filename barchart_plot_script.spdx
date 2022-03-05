@@ -4,7 +4,7 @@ SPDXID: SPDXRef-DOCUMENT
 DocumentName: barchart_plot_script.spdx
 DocumentNamespace: https://github.com/MatthewBuchananAstley/barchart_plot_script.git
 Creator: Person: Matthew Buchanan Astley (matthewbuchanan@astley.nl)
-Created: 2022-03-05T11:31:02Z
+Created: 2022-03-05T11:45:11Z
 CreatorComment: barchart plot script spdx file
 
 #
@@ -65,7 +65,7 @@ LicenseConcluded: NOASSERTION
 
 FileName: ./pplot2.py
 SPDXID: SPDXRef-pplot2.py
-FileType: TEXT
+FileType: APPLICATION
 FileChecksum: SHA256: ee01cbbf1f2759d6a008cc3b786c00728e78a7794c2a0f3102a9fef4b0db38af
 FileChecksum: SHA1: 24576b10875a4a5b8311a46206c3ac48dd41fc95
 FileCopyrightText: <text> 2019-2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
