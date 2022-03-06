@@ -2,6 +2,7 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 # FileCopyrightText: <text> 2019-2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+# 
 #
 # God allemachtig! Jezus! Wat een vrolijk script om grafiekjes te maken van data dat ik in een file 
 # verzameld heb, zoals bijvoorbeeld het aantal keer dat journalisten en columnisten backspace 
@@ -9,7 +10,13 @@
 # Een wrapper om de keyboard driver op FreeBSD/Mac OSX  of iets dergelijks die elke backspace
 # naar mijn mod_wsgi JSON input script stuurt komt misschien nog wel. Mod_wsgi en JSON werkt al.
 #
-# In dat boek heeft de auteur even snel en makkelijk in dat voorbeeld wat waardes gedefinieerd zoals
+# In dat boek heeft de auteur..
+#
+# Ha! In welk boek zal je je afvragen, nou het foundations for analytics with Python boek.
+# Daarin staat een voorbeeld script bar_plot.py waarin je geen waardes kunt invoeren vanaf de commandline.
+# Dat heb ik aangepast zodat je gewoon vanaf de commandline waardes kunt invoeren.
+#
+# ..even snel en makkelijk in dat voorbeeld wat waardes gedefinieerd zoals
 # [ 126, 45, 23, 12, 234 ] en in het wild wil je natuurlijk je eigen verzamelde waardes vanuit een 
 # file of op de commandline voeren aan het script.
 #

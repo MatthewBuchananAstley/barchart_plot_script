@@ -4,7 +4,7 @@ SPDXID: SPDXRef-DOCUMENT
 DocumentName: barchart_plot_script.spdx
 DocumentNamespace: https://github.com/MatthewBuchananAstley/barchart_plot_script.git
 Creator: Person: Matthew Buchanan Astley (matthewbuchanan@astley.nl)
-Created: 2022-03-05T11:45:11Z
+Created: 2022-03-06T21:52:01Z
 CreatorComment: barchart plot script spdx file
 
 #
@@ -13,7 +13,7 @@ CreatorComment: barchart plot script spdx file
 PackageName: barchart_plot_script
 SPDXID: SPDXRef-MatthewBuchananAstley-Package-barchart-plot-script
 PackageVersion: 1.0
-PackageVerificationCode: 523a833aad16b5dfe80f7951b1dec5222fb06029 (./barchart_plot_script.spdx excluded )
+PackageVerificationCode: bf49b3861e9606590cde80fe6362d5b42b047fb9 (./barchart_plot_script.spdx excluded )
 PackageLicenseDeclared: GPL-3.0-or-later
 PackageLicenseInfoFromFiles: LicenseRef-GPL-3.0-or-later
 PackageLicenseConcluded: LicenseRef-GPL-3.0-or-later
@@ -66,8 +66,8 @@ LicenseConcluded: NOASSERTION
 FileName: ./pplot2.py
 SPDXID: SPDXRef-pplot2.py
 FileType: APPLICATION
-FileChecksum: SHA256: ee01cbbf1f2759d6a008cc3b786c00728e78a7794c2a0f3102a9fef4b0db38af
-FileChecksum: SHA1: 24576b10875a4a5b8311a46206c3ac48dd41fc95
+FileChecksum: SHA256: 7456f10261cdd2c63b81a0c4fc3eb9bd1ce20db07fa4ab3d60bbb5016ae81a92
+FileChecksum: SHA1: ef99a91528e4f0fc67cae64bed50e3ace9237489
 FileCopyrightText: <text> 2019-2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
 LicenseInfoInFile: GPL-3.0-or-later
 LicenseConcluded: GPL-3.0-or-later
